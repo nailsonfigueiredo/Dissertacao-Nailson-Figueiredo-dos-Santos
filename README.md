@@ -3,6 +3,8 @@
 Este repositório contém os arquivos de simulação do EnergyPlus, scripts de geração de ocupação, algoritmos de Machine Learning para estimativa de ocupação e notebooks para análise de consumo energético e conforto térmico promovidas no trabalho de dissertação "Estimativa de ocupação em ambientes climatizados com foco em eficiência energética utilizando aprendizado de máquina" apresentado ao Programa de Pós Graduação em Engenharia de Sistemas de Energia.
 
 # 📂 Estrutura do Repositório
+
+```text
 .
 ├── Horario Dinamico/            # Simulação EnergyPlus: Desligamento/acionamento dinâmico baseado na estimativa de ocupação
 ├── Setpoint Dinamico/           # Simulação EnergyPlus: Ajuste dinâmico de setpoint baseado na estimativa de ocupação
